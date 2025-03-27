@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Jill Lamontagne
+jobTitle: Social Worker and Active Volunteer
+location: Kennebunk, ME US
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/jill-lamontagne.jpg
+  alt: Jill Lamontagne - Social Worker and Active Volunteer
+siteUrl: https://www.aboutjilllamontagne.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/jill-lamontagne
     label: Visit
     show: true
   pinterest:

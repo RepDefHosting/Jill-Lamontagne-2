@@ -3,7 +3,7 @@ templateKey: site-data
 published: true
 name: Jill Lamontagne
 jobTitle: Social Worker and Active Volunteer
-location: Kennebunk, ME US
+location: Kennebunk, ME, US
 profileImage:
   src: /img/jill-lamontagne.jpg
   alt: Jill Lamontagne - Social Worker and Active Volunteer

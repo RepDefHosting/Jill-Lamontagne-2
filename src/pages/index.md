@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Jill Lamontagne
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,13 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/naturehero.png
+  src: /img/blogginghero.png
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: A community-focused social worker, Jill Lamontagne serves as an
+  assistant supervisor of adult case management at Waypoint in Sanford, Maine,
+  where she helps coordinate care and resources for adults with disabilities.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,6 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+A community-focused social worker, Jill Lamontagne serves as an assistant supervisor of adult case management at Waypoint in Sanford, Maine, where she helps coordinate care and resources for adults with disabilities. This entails helping case managers create personalized plans with a person-focused, strengths-based approach; reviewing case records and notes; and monitoring the health and safety of clients. Jill Lamontagne has been with Waypoint since August 2022.
+
+[Latest Interview](https://ideamensch.com/jill-lamontagne/)

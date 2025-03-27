@@ -60,7 +60,7 @@ discoverConnectExplore: ME
 longBiography_MD: |
   {{long_biography}}
 ---
-A community-focused social worker, Jill Lamontagne serves as an assistant supervisor of adult case management at Waypoint in Sanford, Maine, where she helps coordinate care and resources for adults with disabilities. This entails helping case managers create personalized plans with a person-focused, strengths-based approach; reviewing case records and notes; and monitoring the health and safety of clients. Jill Lamontagne has been with Waypoint since August 2022.
+A community-focused social worker, [Jill Lamontagne](https://www.cake.me/users/jilllamontagne/profile) serves as an assistant supervisor of adult case management at Waypoint in Sanford, Maine, where she helps coordinate care and resources for adults with disabilities. This entails helping case managers create personalized plans with a person-focused, strengths-based approach; reviewing case records and notes; and monitoring the health and safety of clients. Jill Lamontagne has been with Waypoint since August 2022.
 
 Outside of work, Jill Lamontagne regularly volunteers for causes aimed at protecting the environment. She participates in annual Maine Coastal Cleanup efforts, organizing group cleanups of Maine beaches and natural preserves. She also volunteers at the Harvest Cafe soup kitchen and supports other community programs as a member of the local Rotary Club. In addition, she coaches youth softball, basketball, and field hockey.
 

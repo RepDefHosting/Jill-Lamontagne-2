@@ -5,7 +5,7 @@ name: Jill Lamontagne
 jobTitle: Social Worker and Active Volunteer
 location: Kennebunk, ME, US
 profileImage:
-  src: /img/jill-lamontagne.jpg
+  src: /img/jill-lamontagne-is-an-experienced-health-educator-and-wellness-consultant.jpg
   alt: Jill Lamontagne - Social Worker and Active Volunteer
 siteUrl: https://www.aboutjilllamontagne.com/
 socialLinks:
